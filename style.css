@@ -41,7 +41,7 @@ body {
 }
 
 .container {
-  opacity: 0.5;
+  /* opacity: 0.5; */
   width: 320px;
   height: 498px;
   text-align: center;
