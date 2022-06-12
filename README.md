@@ -23,12 +23,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 #### Desktop
 <p align="center">
-  <img src="./screenshots/desktop.png" alt="Desktop" width="90%"/>
+  <img src="./screenshots/Desktop.png" alt="Desktop" width="90%"/>
 </p>
 
 #### Mobile
 <p align="center">
-  <img src="./screenshots/mobile.png" alt="Mobile" width="45%"/>
+  <img src="./screenshots/Mobile.png" alt="Mobile" width="45%"/>
 </p>
 
 ### Links
